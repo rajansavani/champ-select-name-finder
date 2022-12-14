@@ -1,0 +1,15 @@
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\bin\Debug\net7.0\champSelectNameFinder.exe
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\bin\Debug\net7.0\champSelectNameFinder.deps.json
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\bin\Debug\net7.0\champSelectNameFinder.runtimeconfig.json
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\bin\Debug\net7.0\champSelectNameFinder.dll
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\bin\Debug\net7.0\champSelectNameFinder.pdb
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.csproj.AssemblyReference.cache
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.AssemblyInfoInputs.cache
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.AssemblyInfo.cs
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.csproj.CoreCompileInputs.cache
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.dll
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\obj\Debug\net7.0\refint\champSelectNameFinder.dll
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.pdb
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.genruntimeconfig.cache
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\obj\Debug\net7.0\ref\champSelectNameFinder.dll
