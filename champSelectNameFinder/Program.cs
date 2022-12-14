@@ -1,39 +1,23 @@
 ﻿using System;
 using System.Diagnostics;
+using PoniLCU;
+using static PoniLCU.LeagueClient;
 
 namespace champSelectNameFinder
 {
     class findTheNames
     {
+        static LeagueClient leagueClient = new LeagueClient(credentials.lockfile);
         public static void Main(string[] args)
         {
-            findTheNames find = new findTheNames();
+            getData();
+            Console.Read();
         }
 
-        public findTheNames()
+        async static void getData()
         {
-            Console.WriteLine(processList());
-        }
-
-        /*
-         * sends argument to command line to return the process list for the UX process of the LCU
-         * it then uses a regex search to find the password and port
-         */
-        public string processList() 
-        {
-            Process cmd = new Process();
-            cmd.StartInfo.FileName = "cmd.exe";
-            cmd.StartInfo.RedirectStandardInput = true;
-            cmd.StartInfo.RedirectStandardOutput = true;
-            cmd.StartInfo.CreateNoWindow = true;
-            cmd.StartInfo.UseShellExecute = false;
-            cmd.Start();
-
-            cmd.StandardInput.WriteLine("wmic PROCESS WHERE name='LeagueClientUx.exe' GET commandline");
-            cmd.StandardInput.Flush();
-            cmd.StandardInput.Close();
-            cmd.WaitForExit();
-            return (cmd.StandardOutput.ReadToEnd());
+            var data = await leagueClient.Request(requestMethod.GET, "/lol-summoner/v1/current-summoner");
+            Console.WriteLine(data);
         }
     }  
 }

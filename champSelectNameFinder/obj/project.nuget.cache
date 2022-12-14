@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "rrAYIwYyE08TpzdKmyDoVwmU5m3bBojgTLJF4HkjSCFk9iujUswCV4oXIvcso1SfCDB9uEVZ52cT1r+3XEhIJQ==",
+  "dgSpecHash": "ZfvIg0P6YUQDwZ37rrK99xKZ9LdiIwm3/HsJZEOHw8egtCxSoZ3Hq3q+XwEc5LZmI/5N5kOdyk3Bz8haNyGpAA==",
   "success": true,
   "projectFilePath": "C:\\Users\\nerdi\\Documents\\GitHub\\champ-select-name-finder\\champSelectNameFinder\\champSelectNameFinder.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nerdi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\nerdi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\nerdi\\.nuget\\packages\\ponilcu\\1.0.3\\ponilcu.1.0.3.nupkg.sha512",
+    "C:\\Users\\nerdi\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\nerdi\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512",
+    "C:\\Users\\nerdi\\.nuget\\packages\\websocketsharp.core\\1.0.0\\websocketsharp.core.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
